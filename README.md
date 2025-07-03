@@ -105,13 +105,7 @@ Key takeaways include:
 
 This project demonstrates the power of SQL for in-depth clinical data analysis, transforming raw healthcare data into actionable knowledge that can inform hospital management, treatment protocols, and future research.
 
-## How to Use This Project
 
-To explore or replicate this analysis:
-
-1.  **Database Setup:** Ensure you have a PostgreSQL database system installed.
-2.  **Data Import:** You will need to import the Critical Care Database tables (baseline, drugs, icd, lab, nursingchart, outcome, transfer) into your PostgreSQL instance. (As this is a publicly available dataset, you can search for "Critical Care Database from Zigong Fourth People’s Hospital" to find resources for data download and schema).
-3.  **Execute SQL:** Open the `critical_care_icu-analysis.sql` file in a PostgreSQL client (like pgAdmin). You can execute the queries sequentially or section by section to reproduce the analysis.
 
 ## Author
 
